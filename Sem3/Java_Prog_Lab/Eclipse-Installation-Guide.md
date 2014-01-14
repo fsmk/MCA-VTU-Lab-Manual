@@ -40,4 +40,4 @@ Eclipse is a Java-based application and, as such, requires a Java runtime enviro
 16. To run the program, right click on the editor. Select `Run As` and click on `Java application`.
 17. The output can be seen on the output console if anything is printed. If there were any errors then they would have been displayed in the `Problems` portlet.
 
-The above content is adopted from the Java tutorials developed under Spoken Tutorials Project. Students can go through the videos to get much better information and understanding of the subject. The tutorials can be downloaded from [here](http://files.spoken-tutorial.org/disc-source/java.zip)
+The above content is adopted from the Java video tutorials developed and released by **Spoken Tutorials Project*, an initiative of National Mission on Education through ICT, Government of India, to promote IT literacy through Open Source Software. Students can go through these video tutorials to get better understanding of the subject. The tutorials can be downloaded from [here](http://files.spoken-tutorial.org/disc-source/java.zip)
