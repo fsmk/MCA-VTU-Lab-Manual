@@ -2,7 +2,8 @@
 
 Eclipse is a Java-based application and, as such, requires a Java runtime environment (JRE) in order to run. It is used to write, debug and execute a Java program.
 
-Following are the steps to download and install Eclipse on Ubuntu
+### Steps to download and install Eclipse on Ubuntu
+
 1. Launch the terminal by pressing `Alt + Ctrl + t`
 2. Type `sudo -s` to provide the root permission.
 3. Enter the password when prompted. Note that there will be no feedback for the password. Hit enter.
@@ -11,14 +12,16 @@ Following are the steps to download and install Eclipse on Ubuntu
 6. Press `Y` to continue the download and the installation of Eclipse.
 
 *Note*
+
 1. Process to install eclipse on `Debian`, `Kunbuntu` and `Xubuntu` is the same as that on Ubuntu.
-2. Process of installing eclipse on `Redhat` is similar to that on Ubuntu except for the following commands--
-a) Enter `sudo yum update` in the terminal to fetch the software list.
-b) Install the eclipse software using the command `sudo yum install eclipse`
+2. Process of installing eclipse on `Redhat` is similar to that on Ubuntu except for the following commands
+  1. Enter `sudo yum update` in the terminal to fetch the software list.
+  2. Install the eclipse software using the command `sudo yum install eclipse`
 3. Installation of eclipse on `Fedora`, `Centos` and `SUSE Linux` is the same as that on `Redhat`.
 
 
-Steps to run a Java program on eclipse
+### Steps to run a Java program on eclipse
+
 1. Hit `Alt + F2` to open the dialogue box and enter eclipse to open the application.
 2. Workspace launcher is prompted if the application has been installed. Hit `OK` to continue.
 3. `Welcome to Eclipse` page is displayed.
