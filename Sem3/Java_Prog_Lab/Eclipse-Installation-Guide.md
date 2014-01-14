@@ -22,7 +22,7 @@ Eclipse is a Java-based application and, as such, requires a Java runtime enviro
 
 ### Steps to run a Java program on eclipse
 
-1. Hit `Alt + F2` to open the dialogue box and enter eclipse to open the application.
+1. Hit `Alt + F2` to open the dialogue box and enter *eclipse* to open the application.
 2. Workspace launcher is prompted if the application has been installed. Hit `OK` to continue.
 3. `Welcome to Eclipse` page is displayed.
 4. Click on `Workbench` which is found at the top right corner of the page to open the eclipse IDE(Integrated Development Environment).
