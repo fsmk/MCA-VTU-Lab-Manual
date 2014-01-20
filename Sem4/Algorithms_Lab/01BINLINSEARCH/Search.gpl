@@ -1,0 +1,11 @@
+# Gnuplot script file for plotting data in file "BSearch.dat" and "LSearch.dat"
+# This file is called       Search.gpl
+set terminal png font arial
+set title "Time Complexity for Linear and Binary Search"
+set autoscale
+set xlabel "Size of Input"
+set ylabel "Search Time (microseconds)"
+set grid
+set output "Search.png"
+#plot "BSearch.dat" t 'Binary Search' with lines
+plot "LSearch.dat" t 'Linear Search' with lines
