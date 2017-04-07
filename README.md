@@ -8,14 +8,14 @@ This repository is a collection programs ported to Free and Open Source Software
 
 An initiative by [Free software Movement Karnataka](http://fsmk.org/), this project is a part of Doc-a-thon 2014.
 
-#Structure of the Repo
+# Structure of the Repo
 
 1. This repository consists of VTU manuals.
 2. Within each of these folders consists of different semesters.
 3. Within each semesters has different lab subjects present.
 4. Within each Subjects, it should consists of markdown file called Syllabus.md .This Syllabus.md file consists of all the lists of the programs present in that subject and link to the program present in that directory for ease of use and navigation. 
 
-#Contributing
+# Contributing
 
 1. [Fork it](https://github.com/fsmk/MCA-VTU-Lab-Manual)
 2. Please check the appropriate University/Semester/Subject.
